@@ -52,7 +52,7 @@ springdoc:
 
 spring:
   application:
-    name: compte-service
+    name: customer-service
   datasource:
     driver-class-name: org.postgresql.Driver
     url:  jdbc:postgresql://localhost:5432/my-customer-service
