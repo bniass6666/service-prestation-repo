@@ -49,12 +49,6 @@ server:
 spring:
   application:
     name: customer-service
-
-  security:
-    oauth2:
-      resourceserver:
-        jwt:
-          issuer-uri: http://localhost:8180/realms/prestation-app-realm
   
   datasource:
     driver-class-name: org.postgresql.Driver
