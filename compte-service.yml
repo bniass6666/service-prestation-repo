@@ -46,10 +46,6 @@ topics:
 server:
   port: 8083
 
-springdoc:
-  api-docs:
-    path: /api-docs
-
 spring:
   application:
     name: compte-service
